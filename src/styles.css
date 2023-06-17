@@ -1,1 +1,25 @@
 /* You can add global styles to this file, and also import other style files */
+html,
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  height: 100%;
+  font-family: 'Source Code Pro', monospace;
+}
+
+.title {
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 70px;
+  margin-bottom: 30px;
+  margin-top: 10px;
+  color: #5038A3;
+  text-shadow: 2px 2px 4px rgba(66, 66, 66, 0.5);
+}
+
+i{
+    color: #60F065 !important;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+

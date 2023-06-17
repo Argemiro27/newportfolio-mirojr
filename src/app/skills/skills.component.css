@@ -1,0 +1,26 @@
+.row.parent-row{
+    background-color: rgb(10, 10, 10);
+    box-shadow: 1px 1px 15px rgb(26, 26, 26);
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+   
+}
+
+.titleskill{
+    font-weight: bold;
+    text-decoration:underline;
+    transition: 0.6s;
+}
+
+.titleskill:hover{
+    color: #70dfa6;
+    transition: 0.6s;
+    text-decoration:none;
+}
+
+.col-md-6{
+    padding: 20px;
+    color:rgb(77, 77, 77);
+    font-size: 15px;
+}
